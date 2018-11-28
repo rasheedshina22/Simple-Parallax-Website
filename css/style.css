@@ -10,7 +10,6 @@ body,html{
 
 #picture1, #picture2, #picture3, #picture4{
     position: relative;
-    opacity: 0.70;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
